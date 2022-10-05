@@ -8,4 +8,4 @@ https://www.w3schools.com/react/react_router.asp
 
 https://codesandbox.io/s/un8my?file=/src/App.js
 
-
+https://medium.com/@dreamy-player/40-killer-javascript-one-liners-fc76edaf8439
